@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "script": "veritabaniaktar.php",
+        "schedule": "0 * * * *",
+        "active": true
+    }
+]
