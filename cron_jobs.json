@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "script": "veritabaniaktar.php",
+        "script": "cron.php",
         "schedule": "0 * * * *",
         "active": true
     }
